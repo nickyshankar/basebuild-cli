@@ -1,0 +1,140 @@
+[
+    {
+        "separator": "--- Navigation ---",
+        "packages": [
+            {
+                "name": "react-navigation",
+                "value": "react-navigation"
+            },
+            {
+                "name": "@react-navigation/native",
+                "value": "@react-navigation/native"
+            },
+            {
+                "name": "@react-navigation/stack",
+                "value": "@react-navigation/stack"
+            },
+            {
+                "name": "@react-navigation/bottom-tabs",
+                "value": "@react-navigation/bottom-tabs"
+            },
+            {
+                "name": "@react-navigation/drawer",
+                "value": "@react-navigation/drawer"
+            },
+            {
+                "name": "react-native-screens",
+                "value": "react-native-screens"
+            },
+            {
+                "name": "react-native-gesture-handler",
+                "value": "react-native-gesture-handler"
+            },
+            {
+                "name": "react-native-reanimated",
+                "value": "react-native-reanimated"
+            },
+            {
+                "name": "react-native-safe-area-context",
+                "value": "react-native-safe-area-context"
+            }
+        ]
+    },
+    {
+        "separator": "--- UI Components and Styling ---",
+        "packages": [
+            {
+                "name": "native-base",
+                "value": "native-base"
+            },
+            {
+                "name": "react-native-paper",
+                "value": "react-native-paper"
+            },
+            {
+                "name": "react-native-elements",
+                "value": "react-native-elements"
+            },
+            {
+                "name": "react-native-vector-icons",
+                "value": "react-native-vector-icons"
+            },
+            {
+                "name": "tailwind-css & nativewind",
+                "value": [
+                    "nativewind",
+                    "tailwindcss"
+                ]
+            }
+        ]
+    },
+    {
+        "separator": "--- Animations ---",
+        "packages": [
+            {
+                "name": "react-native-animatable",
+                "value": "react-native-animatable"
+            },
+            {
+                "name": "lottie-react-native",
+                "value": "lottie-react-native"
+            }
+        ]
+    },
+    {
+        "separator": "--- Testing and Debugging ---",
+        "packages": [
+            {
+                "name": "jest",
+                "value": "jest"
+            },
+            {
+                "name": "@testing-library/react-native",
+                "value": "@testing-library/react-native"
+            },
+            {
+                "name": "react-native-testing-library",
+                "value": "react-native-testing-library"
+            }
+        ]
+    },
+    {
+        "separator": "--- Maps and Geolocation ---",
+        "packages": [
+            {
+                "name": "react-native-maps",
+                "value": "react-native-maps"
+            },
+            {
+                "name": "react-native-geolocation-service",
+                "value": "react-native-geolocation-service"
+            }
+        ]
+    },
+    {
+        "separator": "--- Device Features ---",
+        "packages": [
+            {
+                "name": "react-native-device-info",
+                "value": "react-native-device-info"
+            },
+            {
+                "name": "react-native-battery",
+                "value": "react-native-battery"
+            }
+        ]
+    },
+    {
+        "separator": "--- Networking and API Integration ---",
+        "packages": [
+            {
+                "name": "axios",
+                "value": "axios"
+            },
+            {
+                "name": "react-native-fetch-blob",
+                "value": "react-native-fetch-blob"
+            }
+        ]
+    }
+]

@@ -23,6 +23,7 @@ To set up a new Expo project with BaseBuild-CLI, run:
 
 ```bash
 npx bb-cli init
+npx bb-cli --appname myApp
 ```
 
 ## 📌 Current Version
