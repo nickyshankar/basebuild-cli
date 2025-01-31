@@ -1,0 +1,185 @@
+[
+    {
+        "separator": "--- Core Expo Utilities ---",
+        "packages": [
+            {
+                "name": "expo",
+                "value": "expo"
+            },
+            {
+                "name": "expo-constants",
+                "value": "expo-constants"
+            },
+            {
+                "name": "expo-status-bar",
+                "value": "expo-status-bar"
+            }
+        ]
+    },
+    {
+        "separator": "--- Device Features ---",
+        "packages": [
+            {
+                "name": "expo-location",
+                "value": "expo-location"
+            },
+            {
+                "name": "expo-device",
+                "value": "expo-device"
+            },
+            {
+                "name": "expo-permissions",
+                "value": "expo-permissions"
+            },
+            {
+                "name": "expo-sensors",
+                "value": "expo-sensors"
+            },
+            {
+                "name": "expo-battery",
+                "value": "expo-battery"
+            }
+        ]
+    },
+    {
+        "separator": "--- Media ---",
+        "packages": [
+            {
+                "name": "expo-image",
+                "value": "expo-image"
+            },
+            {
+                "name": "expo-camera",
+                "value": "expo-camera"
+            },
+            {
+                "name": "expo-av",
+                "value": "expo-av"
+            },
+            {
+                "name": "expo-image-picker",
+                "value": "expo-image-picker"
+            },
+            {
+                "name": "expo-media-library",
+                "value": "expo-media-library"
+            }
+        ]
+    },
+    {
+        "separator": "--- UI Components and Styling ---",
+        "packages": [
+            {
+                "name": "expo-linear-gradient",
+                "value": "expo-linear-gradient"
+            },
+            {
+                "name": "expo-font",
+                "value": "expo-font"
+            }
+        ]
+    },
+    {
+        "separator": "--- Notifications and Alerts ---",
+        "packages": [
+            {
+                "name": "expo-notifications",
+                "value": "expo-notifications"
+            },
+            {
+                "name": "expo-haptics",
+                "value": "expo-haptics"
+            }
+        ]
+    },
+    {
+        "separator": "--- Networking and API Integration ---",
+        "packages": [
+            {
+                "name": "expo-network",
+                "value": "expo-network"
+            },
+            {
+                "name": "expo-linking",
+                "value": "expo-linking"
+            },
+            {
+                "name": "expo-web-browser",
+                "value": "expo-web-browser"
+            }
+        ]
+    },
+    {
+        "separator": "--- Authentication and Security ---",
+        "packages": [
+            {
+                "name": "expo-auth-session",
+                "value": "expo-auth-session"
+            },
+            {
+                "name": "expo-secure-store",
+                "value": "expo-secure-store"
+            },
+            {
+                "name": "expo-random",
+                "value": "expo-random"
+            },
+            {
+                "name": "expo-crypto",
+                "value": "expo-crypto"
+            }
+        ]
+    },
+    {
+        "separator": "--- Data Storage ---",
+        "packages": [
+            {
+                "name": "expo-file-system",
+                "value": "expo-file-system"
+            }
+        ]
+    },
+    {
+        "separator": "--- Maps and Geolocation ---",
+        "packages": [
+            {
+                "name": "expo-geofencing",
+                "value": "expo-geofencing"
+            }
+        ]
+    },
+    {
+        "separator": "--- AR and 3D ---",
+        "packages": [
+            {
+                "name": "expo-gl",
+                "value": "expo-gl"
+            },
+            {
+                "name": "expo-three",
+                "value": "expo-three"
+            },
+            {
+                "name": "expo-graphics",
+                "value": "expo-graphics"
+            }
+        ]
+    },
+    {
+        "separator": "--- Miscellaneous Utilities ---",
+        "packages": [
+            {
+                "name": "expo-keep-awake",
+                "value": "expo-keep-awake"
+            },
+            {
+                "name": "expo-sharing",
+                "value": "expo-sharing"
+            },
+            {
+                "name": "expo-clipboard",
+                "value": "expo-clipboard"
+            }
+        ]
+    }
+]
